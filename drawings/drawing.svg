@@ -23,18 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
+     inkscape:zoom="5.6"
+     inkscape:cx="185.47835"
+     inkscape:cy="191.26119"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1346"
-     inkscape:window-height="1040"
-     inkscape:window-x="26"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -50,5 +50,16 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <g
+       id="g867"
+       transform="matrix(0.48280158,0,0,0.48280158,-11.004122,-1.3282853)"
+       style="stroke-width:1.09603342;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:#ff9955;fill-opacity:1;stroke:#000000;stroke-width:1.09603342;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 136.84732,133.74986 c 0,0 0.26727,-25.55444 0.26727,-33.40869 -2.23606,-14.672699 -15.82576,-21.114289 -15.82576,-21.114289 0,0 -13.5897,6.44159 -15.82576,21.114289 0,7.85425 0.26727,33.40869 0.26727,33.40869 h 15.55849 z"
+         id="path833-6"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+  </g>
 </svg>
